@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello world, I am Amy Qin aka 0xSolanaGirl 👋
 
+I’m currently working on growing the Solana ecosystem through decentralized university networks and activating communities in Canada.
 <!--
 **solanagirl/solanagirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
